@@ -1,9 +1,9 @@
-A Toggle for to show/hide hidden files in OS X´s Finder app
-===========================================================
+A Toggle for showing hidden files in Finder.app
+===============================================
 
 Installation and Usage
 ----------------------
 
-1. Copy bin/higgle.app to /Applications
-2. Drag it from there to the Finder toolbar
-3. Toggle!
+1. Copy bin/Higgle.app to /Applications
+2. [Drag it from there to the Finder toolbar]
+3. Run it!
